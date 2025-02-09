@@ -1,3 +1,7 @@
+merge-images/
+├── merge_images_horizontal.py   # Script to merge images horizontally
+├── merge_images_vertical.py     # Script to merge images vertically
+└── README.md
 # PNG Image Merger
 
 This project allows you to merge multiple PNG images into a single image using Python and the Pillow library. You can merge images **vertically** or **horizontally** by running the appropriate code.
@@ -18,3 +22,8 @@ This project allows you to merge multiple PNG images into a single image using P
 - Install Pillow library:
   ```bash
   pip3 install Pillow
+
+merge-images/
+├── merge_images_horizontal.py   # Script to merge images horizontally
+├── merge_images_vertical.py     # Script to merge images vertically
+└── README.md
