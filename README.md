@@ -21,6 +21,6 @@ This project allows you to merge multiple PNG images into a single image using P
 
 ## 🛠 Usage
 ```bash
-git clone https://github.com/yourusername/merge-images.git
+git clone https://github.com/Fahad-Al-Maashani/Merge-PNG-Images.git
 cd merge-images
 
